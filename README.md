@@ -29,6 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Extra source
 
 Add)
-- Angular material
+- Angular material  
 `npm install --save @angular/cdk @angular/animations @angular/material hammerjs`
 
