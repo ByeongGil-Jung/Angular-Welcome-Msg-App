@@ -30,5 +30,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Add)
 - Angular material
-> npm install --save @angular/cdk @angular/animations @angular/material hammerjs
+`npm install --save @angular/cdk @angular/animations @angular/material hammerjs`
 
